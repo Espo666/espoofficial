@@ -6,7 +6,7 @@ If Any Problem Dm Me In
 Telegram : @OfficialVignesh
 ##############################
 */
-$Uname = "script.xxx.lua";  //Script Name [Don't Change Name]
+$Uname = "Sc auto click by espo_enc.lua";  //Script Name [Don't Change Name]
 $Url1 = "https://raw.githubusercontent.com/Espo666/espoofficial/main/Register.php"; //REGISTER.PHP
 $Url2 = "https://raw.githubusercontent.com/Espo666/espoofficial/main/User.php"; //USER.PHP
 $Url3 = "https://raw.githubusercontent.com/Espo666/espoofficial/main/ActionManager.php"; //ActionManager.php
