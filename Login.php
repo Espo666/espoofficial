@@ -9,7 +9,7 @@ Telegram : @OfficialVignesh
 $Uname = "script.xxx.lua";  //Script Name [Don't Change Name]
 $Url1 = "https://raw.githubusercontent.com/Espo666/espoofficial/main/Register.php"; //REGISTER.PHP
 $Url2 = "https://raw.githubusercontent.com/Espo666/espoofficial/main/User.php"; //USER.PHP
-$Url3 = "http://officialvignesh.000webhostapp.com/ActionManager.php"; //ActionManager.php
+$Url3 = "https://raw.githubusercontent.com/Espo666/espoofficial/main/ActionManager.php"; //ActionManager.php
 
 
 
